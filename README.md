@@ -2,6 +2,7 @@ Google I/O 2012
 ===============
 
 Notes, code examples, and tutorials from Google I/O 2012
+* * *
 
 Twitter: https://twitter.com/pizzapanther
 
