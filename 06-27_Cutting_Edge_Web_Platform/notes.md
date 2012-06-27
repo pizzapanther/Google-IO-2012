@@ -1,17 +1,17 @@
-*Cutting Edge Web Platform*
+# Cutting Edge Web Platform #
 
 Lasgana code is bad :-( but I love lasagna  
 http://en.wikipedia.org/wiki/Spaghetti_code#Lasagna_code
 
-**Web Components**
+## Web Components ##
 
-***Shadow DOM***  
+### Shadow DOM ###  
 encapulsate things in DOM - hide ugliness
 
-***Custom Elements***  
+### Custom Elements ###  
 definte new tags specify behavior
 
-***templates***
+### templates ###
 
 
 SEO does Google bot know what to do with these custom tags?
