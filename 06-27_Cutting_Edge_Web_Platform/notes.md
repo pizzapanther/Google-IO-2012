@@ -1,13 +1,14 @@
 *Cutting Edge Web Platform*
-Lasgana code is bad :-( but I love lasagna
+
+Lasgana code is bad :-( but I love lasagna  
 http://en.wikipedia.org/wiki/Spaghetti_code#Lasagna_code
 
 **Web Components**
 
-***Shadow DOM***
+***Shadow DOM***  
 encapulsate things in DOM - hide ugliness
 
-***Custom Elements***
+***Custom Elements***  
 definte new tags specify behavior
 
 ***templates***
@@ -33,8 +34,8 @@ Shadow DOM you can render content and asides, so I think this could mess with SE
 </style>
 ```
 
-Cross browser support?
-In Chrome under flag right now, 
+Cross browser support?  
+In Chrome under flag right now,  
 x-tags library by mozilla for building apps today.
 
 https://plus.google.com/u/1/103330502635338602217/posts
