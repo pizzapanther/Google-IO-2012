@@ -1,4 +1,4 @@
-# Cutting Edge Web Platform #
+# Cutting Edge Web Platform
 
 Lasgana code is bad :-( but I love lasagna  
 http://en.wikipedia.org/wiki/Spaghetti_code#Lasagna_code
