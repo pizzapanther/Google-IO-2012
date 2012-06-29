@@ -11,3 +11,6 @@
 * cross origin resource sharing, will this only work in chrome?
 * notifications, web hooks basically for files when uploaded/changed
 * can turn on logging and anayltics
+
+### Idea
+django service to generate site and publish to cloud storage
